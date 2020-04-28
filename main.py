@@ -8,10 +8,6 @@ from scipy.optimize import curve_fit
 def exponenial_func(x, a, b, c):
     return a*np.exp(-b*x)+c
 
-#for display, I shall put the months down
-xmonths = ['March 2012', 'June 2012', 'September 2012', 'January 2013', 'May 2013', 'October 2013', 'June 2014', 'October 2014', 'September 2016']
-
-
 #draw graph and set line positions
 fig = plt.figure()
 ax = fig.add_subplot(1, 1, 1)
