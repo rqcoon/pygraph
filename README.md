@@ -7,3 +7,5 @@ main is the first part. It takes values from xdata and ydata and spits out a gra
 # test4
 test4 is the second part, it has the original data input through the same method as main, except test4 has sliders and a set equation. I adjust the sliders to fit the original data the best, but you will have to change minimum and maximum values if you change the dataset.
 
+![Screenshot](pydemo2.png)
+![Screenshot](pydemo.png)
